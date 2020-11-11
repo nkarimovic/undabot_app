@@ -15,6 +15,7 @@
   
   After that move to react directory "client" (open a new terminal so that server process is still open):
   ### `cd client`
+  ### `npm install`
   ### `yarn build`
   ### `npm install -g serve`
   ### `serve -s build`
