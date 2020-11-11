@@ -4,7 +4,7 @@
  Make sure you have NPM on your working environment
  
 
- Clone project from Github: https://github.com/nkarimovic/async_frontend.git
+ Clone project from Github: https://github.com/nkarimovic/undabot_app.git
  
 
  After you  have successfully cloned the project into a repository:
